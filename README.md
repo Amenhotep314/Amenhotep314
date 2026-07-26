@@ -10,6 +10,7 @@ I study physics, and I am interested in web development and simulation.
 
 ## Right now I'm working on
 
--  Learning [Rust](https://rust-lang.org/) & [Svelte](https://svelte.dev/) and using them to build a [webapp](https://github.com/Amenhotep314/betterbook)
--  Finishing my [raytracing project](https://github.com/Amenhotep314/rusty_rays)
--  Learning to make 2D pixel-art games in [Godot](https://godotengine.org)
+- Learning [Rust](https://rust-lang.org/) & [Svelte](https://svelte.dev/) and using them to build a [webapp](https://github.com/Amenhotep314/betterbook)
+- Finishing my [raytracing project](https://github.com/Amenhotep314/rusty_rays)
+- Learning to make 2D pixel-art games in [Godot](https://godotengine.org)
+- Working on [CAD software](https://github.com/Amenhotep314/coldfusion) in C++
